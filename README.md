@@ -93,7 +93,7 @@ Leading Indian Bank & CIBIL Real-World Dataset — Kaggle
 ## Dashboard
 [3-page interactive Power BI dashboard screenshots]
 
-![Overview](Dashboard/Customer Overview.png)
+![Overview](https://github.com/Saravana999/-Indian-Bank-Credit-Risk-Analysis-Dashboard/blob/609e4385f02684f97a1dd530deeb8bc496e82f10/Dashboard/Customer%20Overview.png)
 ![Risk Deep Dive](Dashboard/Risk Deep Dive.png)
 ![Segments](Dashboard/Segment Analysis.png)
 
