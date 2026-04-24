@@ -1,4 +1,4 @@
-# -Indian-Bank-Credit-Risk-Analysis-Dashboard
+
 # 🏦 Indian Bank Credit Risk Analysis
 ### Identifying High-Risk Borrowers Before Default Occurs
 
